@@ -140,19 +140,18 @@ export default Browser
 ```
 
 ## 总结
-[思维模型脑图]
+[思维模型脑图](https://github.com/hongqx/Frontend-01-Template/blob/master/week01/frontEnd.xmind)
 ### 前端技能模型
-领域知识
-前端知识
-编程能力 
-架构能力
-工程能力
+>* 领域知识
+>* 前端知识
+>* 编程能力 
+>* 架构能力
+>* 工程能力
 ### 关于学习
-之前都是用到哪个点就直接搜索哪个点，导致整体只是很零碎，很散落，特别是html和css,通过思维脑图，感觉整体统一的分块儿学习，很有用，不会花了很长时间，看了某一点然后发现遇到相似类容还是不会的问题
-   各种标准的文档很重要，看文档才能知其所以然
+之前都是用到哪个点就直接搜索哪个点，导致整体只是很零碎，很散落，特别是html和css,通过思维脑图，感觉整体统一的分块儿学习，很有用，不会花了很长时间，看了某一点然后发现遇到相似类容还是不会的问题各种标准的文档很重要，看文档才能知其所以然
 
 ### 一些常用标准查看网站
-[HTML](https://html.spec.whatwg.org/multipage/)
-[javascript-262](ttps://www.ecma-international.org/publications/files/ECMA-ST/ECMA-262.pdf)
-[DTD](https://www.w3school.com.cn/html/html_entities.asp)
+>* [HTML](https://html.spec.whatwg.org/multipage/)
+>* [javascript-262](ttps://www.ecma-international.org/publications/files/ECMA-ST/ECMA-262.pdf)
+>*[DTD](https://www.w3school.com.cn/html/html_entities.asp)
 
