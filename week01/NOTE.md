@@ -153,5 +153,5 @@ export default Browser
 ### 一些常用标准查看网站
 >* [HTML](https://html.spec.whatwg.org/multipage/)
 >* [javascript-262](ttps://www.ecma-international.org/publications/files/ECMA-ST/ECMA-262.pdf)
->*[DTD](https://www.w3school.com.cn/html/html_entities.asp)
+>* [DTD](https://www.w3school.com.cn/html/html_entities.asp)
 
