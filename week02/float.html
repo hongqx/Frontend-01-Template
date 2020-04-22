@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<script>
+    var a = 0.1;
+    var b = 0.3;
+    var intarr = new Uint8Array(8)
+    var memory = new Float32Array(intarr.buffer)
+    intarr[0] = 0b00000000
+    intarr[1] = 0b000010
+    console.log(memory)
+    // for(var i = 0; i < 8; i++){
+    //     var s = (memory2[i].toString(2))
+    //     console.log(new Array(9 - s.length).join("0") + s + '  ' + i)
+
+    // }
+</script>
+</body>
+</html>
